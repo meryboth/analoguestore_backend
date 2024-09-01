@@ -1,0 +1,409 @@
+[
+    {
+      "title": "Zapatillas Nike Air Force 1",
+      "description": "Zapatillas urbanas clásicas con estilo retro.",
+      "price": 120,
+      "img": "https://example.com/zapatillas-nike-air-force-1.jpg",
+      "code": "NIKE002",
+      "stock": 80,
+      "category": "Calzado urbano",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-air-force-1-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-air-force-1-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Air Max 90",
+      "description": "Zapatillas deportivas con diseño aerodinámico.",
+      "price": 150,
+      "img": "https://example.com/zapatillas-nike-air-max-90.jpg",
+      "code": "NIKE003",
+      "stock": 65,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-air-max-90-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-air-max-90-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Cortez",
+      "description": "Zapatillas clásicas con diseño minimalista.",
+      "price": 100,
+      "img": "https://example.com/zapatillas-nike-cortez.jpg",
+      "code": "NIKE004",
+      "stock": 50,
+      "category": "Calzado urbano",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-cortez-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-cortez-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Blazer",
+      "description": "Zapatillas de estilo retro con suela vulcanizada.",
+      "price": 110,
+      "img": "https://example.com/zapatillas-nike-blazer.jpg",
+      "code": "NIKE005",
+      "stock": 70,
+      "category": "Calzado urbano",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-blazer-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-blazer-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Roshe One",
+      "description": "Zapatillas ligeras y transpirables ideales para el día a día.",
+      "price": 90,
+      "img": "https://example.com/zapatillas-nike-roshe-one.jpg",
+      "code": "NIKE006",
+      "stock": 85,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-roshe-one-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-roshe-one-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Air Jordan 1",
+      "description": "Zapatillas icónicas de baloncesto con diseño retro.",
+      "price": 170,
+      "img": "https://example.com/zapatillas-nike-air-jordan-1.jpg",
+      "code": "NIKE007",
+      "stock": 60,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-air-jordan-1-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-air-jordan-1-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Tanjun",
+      "description": "Zapatillas versátiles y cómodas para uso diario.",
+      "price": 80,
+      "img": "https://example.com/zapatillas-nike-tanjun.jpg",
+      "code": "NIKE008",
+      "stock": 95,
+      "category": "Calzado urbano",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-tanjun-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-tanjun-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Air Max 270",
+      "description": "Zapatillas deportivas con unidad Air Max para mayor amortiguación.",
+      "price": 200,
+      "img": "https://example.com/zapatillas-nike-air-max-270.jpg",
+      "code": "NIKE009",
+      "stock": 55,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-air-max-270-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-air-max-270-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike SB Dunk Low",
+      "description": "Zapatillas de skate con diseño retro y suela flexible.",
+      "price": 130,
+      "img": "https://example.com/zapatillas-nike-sb-dunk-low.jpg",
+      "code": "NIKE010",
+      "stock": 75,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-sb-dunk-low-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-sb-dunk-low-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Air Max 95",
+      "description": "Zapatillas deportivas con diseño inspirado en la anatomía humana.",
+      "price": 180,
+      "img": "https://example.com/zapatillas-nike-air-max-95.jpg",
+      "code": "NIKE011",
+      "stock": 45,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-air-max-95-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-air-max-95-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Air Zoom Pegasus 38",
+      "description": "Zapatillas de running con tecnología Air Zoom para una mayor respuesta.",
+      "price": 160,
+      "img": "https://example.com/zapatillas-nike-air-zoom-pegasus-38.jpg",
+      "code": "NIKE012",
+      "stock": 85,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-air-zoom-pegasus-38-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-air-zoom-pegasus-38-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike React Element 55",
+      "description": "Zapatillas casuales con tecnología de amortiguación React.",
+      "price": 140,
+      "img": "https://example.com/zapatillas-nike-react-element-55.jpg",
+      "code": "NIKE013",
+      "stock": 70,
+      "category": "Calzado urbano",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-react-element-55-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-react-element-55-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Air Huarache",
+      "description": "Zapatillas clásicas con diseño inspirado en el calzado mexicano.",
+      "price": 130,
+      "img": "https://example.com/zapatillas-nike-air-huarache.jpg",
+      "code": "NIKE014",
+      "stock": 60,
+      "category": "Calzado urbano",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-air-huarache-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-air-huarache-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Air VaporMax Plus",
+      "description": "Zapatillas deportivas con unidad Air Max y diseño futurista.",
+      "price": 220,
+      "img": "https://example.com/zapatillas-nike-air-vapormax-plus.jpg",
+      "code": "NIKE015",
+      "stock": 50,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-air-vapormax-plus-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-air-vapormax-plus-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Free RN 5.0",
+      "description": "Zapatillas de running minimalistas para una sensación natural.",
+      "price": 110,
+      "img": "https://example.com/zapatillas-nike-free-rn-5.0.jpg",
+      "code": "NIKE016",
+      "stock": 75,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-free-rn-5.0-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-free-rn-5.0-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Air Max Excee",
+      "description": "Zapatillas inspiradas en el diseño clásico de las Air Max 90.",
+      "price": 150,
+      "img": "https://example.com/zapatillas-nike-air-max-excee.jpg",
+      "code": "NIKE017",
+      "stock": 80,
+      "category": "Calzado urbano",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-air-max-excee-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-air-max-excee-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Air Zoom Terra Kiger 7",
+      "description": "Zapatillas de trail running con tracción mejorada.",
+      "price": 170,
+      "img": "https://example.com/zapatillas-nike-air-zoom-terra-kiger-7.jpg",
+      "code": "NIKE018",
+      "stock": 55,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-air-zoom-terra-kiger-7-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-air-zoom-terra-kiger-7-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Air Max 2090",
+      "description": "Zapatillas con diseño futurista inspirado en las Air Max 90.",
+      "price": 190,
+      "img": "https://example.com/zapatillas-nike-air-max-2090.jpg",
+      "code": "NIKE019",
+      "stock": 65,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-air-max-2090-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-air-max-2090-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Air Max Plus",
+      "description": "Zapatillas con diseño contemporáneo y unidad Air Max.",
+      "price": 180,
+      "img": "https://example.com/zapatillas-nike-air-max-plus.jpg",
+      "code": "NIKE020",
+      "stock": 70,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-air-max-plus-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-air-max-plus-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Revolution 5",
+      "description": "Zapatillas versátiles y cómodas para entrenamiento diario.",
+      "price": 100,
+      "img": "https://example.com/zapatillas-nike-revolution-5.jpg",
+      "code": "NIKE021",
+      "stock": 90,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-revolution-5-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-revolution-5-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Renew Run",
+      "description": "Zapatillas de running con amortiguación suave y transpirable.",
+      "price": 120,
+      "img": "https://example.com/zapatillas-nike-renew-run.jpg",
+      "code": "NIKE022",
+      "stock": 80,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-renew-run-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-renew-run-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Air Max Sequent 4",
+      "description": "Zapatillas de running con estilo y comodidad.",
+      "price": 130,
+      "img": "https://example.com/zapatillas-nike-air-max-sequent-4.jpg",
+      "code": "NIKE023",
+      "stock": 75,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-air-max-sequent-4-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-air-max-sequent-4-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Air Zoom SuperRep 2",
+      "description": "Zapatillas diseñadas para entrenamiento de alta intensidad.",
+      "price": 140,
+      "img": "https://example.com/zapatillas-nike-air-zoom-superrep-2.jpg",
+      "code": "NIKE024",
+      "stock": 85,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-air-zoom-superrep-2-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-air-zoom-superrep-2-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Air Zoom Structure 23",
+      "description": "Zapatillas de running con soporte y estabilidad mejorados.",
+      "price": 150,
+      "img": "https://example.com/zapatillas-nike-air-zoom-structure-23.jpg",
+      "code": "NIKE025",
+      "stock": 65,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-air-zoom-structure-23-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-air-zoom-structure-23-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Air Max Fusion",
+      "description": "Zapatillas versátiles con diseño inspirado en el running.",
+      "price": 120,
+      "img": "https://example.com/zapatillas-nike-air-max-fusion.jpg",
+      "code": "NIKE026",
+      "stock": 80,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-air-max-fusion-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-air-max-fusion-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Air Max Bella TR 3",
+      "description": "Zapatillas de entrenamiento versátiles y elegantes.",
+      "price": 110,
+      "img": "https://example.com/zapatillas-nike-air-max-bella-tr-3.jpg",
+      "code": "NIKE027",
+      "stock": 90,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-air-max-bella-tr-3-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-air-max-bella-tr-3-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Air Max Infinity",
+      "description": "Zapatillas con diseño moderno y comodidad duradera.",
+      "price": 130,
+      "img": "https://example.com/zapatillas-nike-air-max-infinity.jpg",
+      "code": "NIKE028",
+      "stock": 85,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-air-max-infinity-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-air-max-infinity-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Joyride Dual Run",
+      "description": "Zapatillas con tecnología de amortiguación Joyride para una carrera suave.",
+      "price": 140,
+      "img": "https://example.com/zapatillas-nike-joyride-dual-run.jpg",
+      "code": "NIKE029",
+      "stock": 80,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-joyride-dual-run-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-joyride-dual-run-thumbnail2.jpg"
+      ]
+    },
+    {
+      "title": "Zapatillas Nike Revolution 5 FlyEase",
+      "description": "Zapatillas de running fáciles de poner y quitar.",
+      "price": 110,
+      "img": "https://example.com/zapatillas-nike-revolution-5-flyease.jpg",
+      "code": "NIKE030",
+      "stock": 95,
+      "category": "Calzado deportivo",
+      "status": true,
+      "thumbnails": [
+        "https://example.com/zapatillas-nike-revolution-5-flyease-thumbnail1.jpg",
+        "https://example.com/zapatillas-nike-revolution-5-flyease-thumbnail2.jpg"
+      ]
+    }
+  ]
+  
