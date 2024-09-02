@@ -57,31 +57,26 @@ router.post('/:cid/product/:pid', authenticateJWT, async (req, res) => {
   }
 });
 
-router.delete(
-  '/:cid/product/:pid',
-  authenticateJWT,
-  isUser,
-  async (req, res) => {
-    try {
-      const cartId = req.params.cid;
-      const productId = req.params.pid;
-      const updatedCart = await CartService.deleteProductFromCart(
-        cartId,
-        productId
-      );
-      res.json({
-        status: 'success',
-        message: 'Producto eliminado del carrito correctamente',
-        updatedCart,
-      });
-    } catch (error) {
-      console.error('Error al eliminar el producto del carrito', error);
-      res.status(500).send('Error interno del servidor');
-    }
+router.delete('/:cid/product/:pid', authenticateJWT, async (req, res) => {
+  try {
+    const cartId = req.params.cid;
+    const productId = req.params.pid;
+    const updatedCart = await CartService.deleteProductFromCart(
+      cartId,
+      productId
+    );
+    res.json({
+      status: 'success',
+      message: 'Producto eliminado del carrito correctamente',
+      updatedCart,
+    });
+  } catch (error) {
+    console.error('Error al eliminar el producto del carrito', error);
+    res.status(500).send('Error interno del servidor');
   }
-);
+});
 
-router.put('/:cid', authenticateJWT, isUser, async (req, res) => {
+router.put('/:cid', authenticateJWT, async (req, res) => {
   const cartId = req.params.cid;
   const updatedProducts = req.body;
 
@@ -94,7 +89,7 @@ router.put('/:cid', authenticateJWT, isUser, async (req, res) => {
   }
 });
 
-router.put('/:cid/product/:pid', authenticateJWT, isUser, async (req, res) => {
+router.put('/:cid/product/:pid', authenticateJWT, async (req, res) => {
   const cartId = req.params.cid;
   const productId = req.params.pid;
   const newQuantity = req.body.quantity;
@@ -119,7 +114,7 @@ router.put('/:cid/product/:pid', authenticateJWT, isUser, async (req, res) => {
   }
 });
 
-router.delete('/:cid', authenticateJWT, isUser, async (req, res) => {
+router.delete('/:cid', authenticateJWT, async (req, res) => {
   try {
     const cartId = req.params.cid;
     const updatedCart = await CartService.emptyCart(cartId);
@@ -135,7 +130,7 @@ router.delete('/:cid', authenticateJWT, isUser, async (req, res) => {
   }
 });
 
-router.post('/:cid/purchase', authenticateJWT, isUser, async (req, res) => {
+router.post('/:cid/purchase', authenticateJWT, async (req, res) => {
   const cartId = req.params.cid;
   const user = req.user; // Información del usuario obtenida del middleware
 
