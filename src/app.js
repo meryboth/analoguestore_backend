@@ -92,7 +92,12 @@ const httpServer = app.listen(PORT, () => {
 
 const io = new socketIo(httpServer, {
   cors: {
-    origin: `${config.front_url}`,
+    origin: [
+      new RegExp(
+        `^${config.front_url.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&')}$`
+      ), // URL de producción desde variable de entorno
+      /http:\/\/localhost:5174$/, // URL de desarrollo
+    ],
     methods: ['GET', 'POST'],
     credentials: true,
   },
