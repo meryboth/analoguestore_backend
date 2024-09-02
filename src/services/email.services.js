@@ -167,7 +167,6 @@ class EmailService {
                     <p>Solicitaste restablecer tu contraseña. Por favor, usa el siguiente código para completar el proceso:</p>
                     <p><strong>${token}</strong></p>
                     <p>Este código expira en una hora.</p>
-                    <a href="${config.front_url}/new-password">Restablecer contraseña</a>
                   </div>
                   <div class="footer">
                     <p>Si no solicitaste este correo, por favor ignóralo.</p>
