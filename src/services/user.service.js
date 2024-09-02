@@ -55,7 +55,7 @@ export const requestPasswordReset = async (email) => {
   await emailManager.sendEmailToResetPassword(
     user.email,
     user.first_name,
-    `${config.front_url}/validate-code?token=${token}`
+    `${token}`
   );
 };
 
